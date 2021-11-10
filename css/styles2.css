@@ -1,0 +1,23 @@
+#menu li a {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    padding: 0px;
+    display: block;
+    margin: 50px;
+    float: none;
+    width: auto;
+    max-width: 1000px;
+    background-color: none;
+}
+
+#texto2 a {
+    text-decoration: none;
+    color: black;
+    margin: 30px;
+}
+
+#youtube a {
+    text-decoration: none;
+    color: black;
+}

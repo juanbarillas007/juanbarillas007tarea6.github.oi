@@ -1,0 +1,14 @@
+#menu li {
+    display: inline-block;
+    text-align: center;
+}
+
+#menu li a:hover {
+    color: white;
+    background-color: black;
+}
+
+#texto2 a:hover {
+    color: white;
+    background-color: black;
+}

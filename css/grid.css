@@ -1,0 +1,44 @@
+#inicio {
+    background-color: darkblue;
+    display: grid;
+    grid-template-columns: 2fr repeat(2, 1fr)2fr;
+    grid-auto-columns: minmax(300px, 500px);
+    margin: 10px;
+    grid-column-start: 2;
+    grid-column-end: 8;
+    grid-row-start: 4;
+    grid-row-end: 8;
+}
+
+#inicio div {
+    border: solid;
+    display: grid;
+}
+
+#dos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border: solid;
+    margin: 10px;
+}
+
+#tres {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 10px;
+    border: solid;
+}
+
+#doss {
+    background-color: white;
+}
+
+#tress {
+    background-color: yellowgreen;
+}
+
+#segunda {
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    margin: 1px;
+}
